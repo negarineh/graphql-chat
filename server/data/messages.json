@@ -1,0 +1,32 @@
+[
+  {
+    "id": "SJKhIAKYB",
+    "from": "system",
+    "text": "Welcome!"
+  },
+  {
+    "id": "H1ZwCXvlY",
+    "from": "alice",
+    "text": "test"
+  },
+  {
+    "id": "H1IPAmveY",
+    "from": "alice",
+    "text": "hi"
+  },
+  {
+    "id": "Hyaa07wxY",
+    "from": "alice",
+    "text": "hi "
+  },
+  {
+    "id": "SyDl1VwgF",
+    "from": "alice",
+    "text": "tst again"
+  },
+  {
+    "id": "B1pVeNDeY",
+    "from": "alice",
+    "text": "test"
+  }
+]
